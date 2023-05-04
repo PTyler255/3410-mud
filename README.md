@@ -1,6 +1,6 @@
 # 3410-mud
 
-MUD is a multi-user dungeon that runs a central server for users to drop into and interact with the world and other users. Main program runs the interaction and players can join and interact within the spaces including navigate the world and chat. Can easily be expected to include greater functionality and actions as well different worldmaps. Sign onto the world using Telnet
+MUD is a multi-user dungeon that runs a central server for users to drop into and interact with the world and other users. Main program runs the interaction and players can join and interact within the spaces including navigate the world and chat. Can easily be expected to include greater functionality and actions as well different worldmaps. Sign onto the world using ``telnet <ipaddress> <port>``
 
 ![Three Players and the master node](https://media.discordapp.net/attachments/352962574029029377/1103800984758657024/image.png?width=881&height=465)
 
