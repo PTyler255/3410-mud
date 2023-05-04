@@ -1,5 +1,7 @@
 # 3410-mud
 
+MUD is a multi-user dungeon that runs a central server for users to drop into and interact with the world and other users. Main program runs the interaction and players can join and interact within the spaces including navigate the world and chat. Can easily be expected to include greater functionality and actions as well different worldmaps.
+
 ## mud.go
 Contains all of the functions and goroutines and the many parts that interact directly with the user.
 
